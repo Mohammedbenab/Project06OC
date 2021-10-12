@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+.bordureRouge{ border: 3px solid red; padding: 10px; }
+
+.jumbotron{
+	padding: 20px 60px !important;
+}
+.form-select{
+	width: 75%;
+	height: 35px;
+    padding: 5px 35px 5px 5px;
+    font-size: 18px;
+    border: 2px solid #ccc;
+}
